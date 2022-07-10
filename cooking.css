@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(0, 0, 0); 
+    text-align: center;
+    text-shadow: 4px 4px #8c8a8a;
+    font-size: 70px;
+}
+
+img {
+    display: block;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+#container {
+    display: flex
+}
+
+
+p  {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
